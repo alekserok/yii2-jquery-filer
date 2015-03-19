@@ -9,7 +9,7 @@
             "email": "promcalc@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "repositories": {
         "jqueryfiler": {
             "type": "package",
