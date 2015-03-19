@@ -1,7 +1,7 @@
 {
     "name": "mosedu/yii2-filer",
     "description": "Yii2 widget for creativedream/jquery.filer",
-    "keywords": ["yii2", "filer", "file upload"],
+    "keywords": ["yii2", "filer", "file upload", "jquery"],
     "license": "MIT",
     "authors": [
         {
