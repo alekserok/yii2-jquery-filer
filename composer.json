@@ -11,9 +11,13 @@
     ],
     "repositories": [
         {
-            "type": "git",
-            "url": "https://github.com/CreativeDream/jquery.filer"
-        }
+            "name": "creativedream/jqueryfiler",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CreativeDream/jquery.filer.git",
+                "reference": "origin/master"
+            },
+        },
     ],
     "require": {
         "creativedream/jqueryfiler": "*"
