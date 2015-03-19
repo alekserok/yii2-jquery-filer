@@ -9,16 +9,16 @@
             "email": "promcalc@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "repositories": {
         "jqueryfiler": {
             "type": "package",
             "package": {
                 "name": "creativedream/jqueryfiler",
-                "version": "1.0",
+                "version": "dev-master",
                 "source": {
                     "url": "https://github.com/CreativeDream/jquery.filer",
-                    "type": "git"
+                    "type": "git",
+                    "reference": "master"
                 }
             }
         }
@@ -26,7 +26,7 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*", 
-        "creativedream/jqueryfiler": "1.0"
+        "creativedream/jqueryfiler": "dev"
     },
     "autoload": {
         "psr-4": {
