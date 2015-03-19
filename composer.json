@@ -9,20 +9,12 @@
             "email": "promcalc@gmail.com"
         }
     ],
-    "repositories": {
-        "jqueryfiler": {
-            "type": "package",
-            "version": "dev",
-            "package": {
-                "name": "creativedream/jqueryfiler",
-                "source": {
-                    "url": "https://github.com/CreativeDream/jquery.filer",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/CreativeDream/jquery.filer"
         }
-    }, 
+    ],
     "require": {
         "creativedream/jqueryfiler": "dev-master"
     },
