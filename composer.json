@@ -14,7 +14,6 @@
             "type": "package",
             "package": {
                 "name": "creativedream/jqueryfiler",
-                "version": "dev-master",
                 "source": {
                     "url": "https://github.com/CreativeDream/jquery.filer",
                     "type": "git",
