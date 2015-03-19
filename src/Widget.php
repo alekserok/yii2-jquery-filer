@@ -180,7 +180,6 @@ class Widget extends InputWidget
      * @throws InvalidConfigException if the "mask" property is not set.
      */ 
     public function init() {
-        //
         parent::init();
         foreach($this->jsExpressionList As $name) {
             $this->setJsExpression($name);
