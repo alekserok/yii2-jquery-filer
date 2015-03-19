@@ -17,7 +17,7 @@
                 "url": "https://github.com/CreativeDream/jquery.filer.git",
                 "reference": "origin/master"
             },
-        },
+        }
     ],
     "require": {
         "creativedream/jqueryfiler": "*"
