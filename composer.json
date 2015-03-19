@@ -9,7 +9,7 @@
             "email": "promcalc@gmail.com"
         }
     ],
-    "repositories": [
+    "packages": [
         {
             "name": "creativedream/jqueryfiler",
             "source": {
