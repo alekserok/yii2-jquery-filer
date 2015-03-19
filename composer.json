@@ -9,8 +9,8 @@
             "email": "promcalc@gmail.com"
         }
     ],
-    "repositories": [
-        {
+    "repositories": {
+        "jqueryfiler": {
             "type": "package",
             "package": {
                 "name": "creativedream/jqueryfiler",
@@ -22,7 +22,7 @@
                 }
             }
         }
-    ], 
+    }, 
     "require": {
         "creativedream/jqueryfiler": "*"
     },
