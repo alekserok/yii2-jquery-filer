@@ -9,8 +9,8 @@
             "email": "promcalc@gmail.com"
         }
     ],
-    "repositories": {
-        "jqueryfiler": {
+    "repositories": [
+        {
             "type": "package",
             "package": {
                 "name": "creativedream/jqueryfiler",
@@ -22,7 +22,7 @@
                 }
             }
         }
-    }, 
+    ], 
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*", 
