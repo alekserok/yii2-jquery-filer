@@ -24,7 +24,7 @@
         }
     }, 
     "require": {
-        "creativedream/jqueryfiler": "dev-master"
+        "creativedream/jqueryfiler": "1.*"
     },
     "autoload": {
         "psr-4": {
