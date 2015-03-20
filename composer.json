@@ -16,7 +16,7 @@
                 "name": "creativedream/jqueryfiler",
                 "version": "1.0",
                 "source": {
-                    "url": "https://github.com/CreativeDream/jquery.filer",
+                    "url": "https://github.com/CreativeDream/jquery.filer.git",
                     "type": "git",
                     "reference": "master"
                 }
