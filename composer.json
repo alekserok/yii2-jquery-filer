@@ -10,7 +10,7 @@
         }
     ],
     "repositories": {
-        "jqueryfiler": {
+        "creativedream/jqueryfiler": {
             "type": "package",
             "package": {
                 "name": "creativedream/jqueryfiler",
