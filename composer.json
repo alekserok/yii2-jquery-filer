@@ -14,7 +14,7 @@
             "type": "package",
             "package": {
                 "name": "creativedream/jqueryfiler",
-                "version": "1.0",
+                "version": "dev-master",
                 "source": {
                     "url": "https://github.com/CreativeDream/jquery.filer.git",
                     "type": "git",
@@ -24,7 +24,7 @@
         }
     }, 
     "require": {
-        "creativedream/jqueryfiler": "1.*"
+        "creativedream/jqueryfiler": "dev-master"
     },
     "autoload": {
         "psr-4": {
