@@ -20,6 +20,20 @@
             }
         }
     },
+    "repositories": {
+        "jqueryfiler": {
+            "type": "package",
+            "package": {
+                "name": "creativedream/jqueryfiler",
+                "version": "1.0",
+                "source": {
+                    "url": "https://github.com/CreativeDream/jquery.filer",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    }, 
     "require": {
         "creativedream/jqueryfiler": "*"
     },
