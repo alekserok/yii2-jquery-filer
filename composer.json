@@ -14,7 +14,7 @@
             "type": "package",
             "package": {
                 "name": "gerardbalaoro/jqueryfiler",
-                "version": "master",
+                "version": "1.3.*",
                 "source": {
                     "url": "https://github.com/GerardBalaoro/jQuery.filer.git",
                     "type": "git",
