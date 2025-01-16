@@ -1,34 +1,35 @@
 {
-    "name": "mosedu/yii2-filer",
+    "name": "alekserok/jqueryfiler",
     "description": "Yii2 widget for creativedream/jquery.filer",
     "keywords": ["yii2", "filer", "file upload", "jquery"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Victor Kozmin",
-            "email": "promcalc@gmail.com"
+            "name": "Oleksandr Alekseichuk",
+            "email": "avitlauak@gmail.com"
         }
     ],
     "repositories": {
-        "creativedream/jqueryfiler": {
+        "gerardbalaoro/jqueryfiler": {
             "type": "package",
             "package": {
-                "name": "creativedream/jqueryfiler",
-                "version": "dev-master",
+                "name": "gerardbalaoro/jqueryfiler",
+                "version": "master",
                 "source": {
-                    "url": "https://github.com/CreativeDream/jquery.filer.git",
+                    "url": "https://github.com/GerardBalaoro/jQuery.filer.git",
                     "type": "git",
                     "reference": "master"
                 }
             }
         }
-    }, 
+    },
+    "minimum-stability": "dev",
     "require": {
-        "creativedream/jqueryfiler": "dev-master"
+        "gerardbalaoro/jqueryfiler": "master"
     },
     "autoload": {
         "psr-4": {
-            "mosedu\\yii2-filer\\": "src"
+            "Alekserok\\Jqueryfiler\\": "src/"
         }
     } 
 }
